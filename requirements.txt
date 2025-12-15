@@ -1,0 +1,24 @@
+# requests
+pandas
+numpy<2
+python-box==6.0.2
+pyYAML
+tqdm
+ensure==1.0.2
+python-dotenv
+joblib
+types-PyYAML
+-e .
+pydantic<2
+
+
+pyMuPDF
+setuptools
+wheel
+spacy
+sentence_transformers
+pinecone-client
+transformers
+torch
+datasets
+chainlit
