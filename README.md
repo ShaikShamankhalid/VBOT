@@ -74,7 +74,7 @@ Retrieval Confidence: High
 ## 🛠 Installation
 
 ```bash
-git clone https://github.com/Dherandar08102003/VBOT.git
+git clone https://github.com/ShaikShamanKhalid/VBOT.git
 cd VBOT
 python -m venv venv
 source venv/bin/activate   # or venv\Scripts\activate for Windows
@@ -147,7 +147,7 @@ VBOT/
 
 ## 📬 Contact
 
-For feedback, bugs, or feature requests, please open an issue in the [GitHub Issues](https://github.com/Dherandar08102003/VBOT/issues) section.
+For feedback, bugs, or feature requests, please open an issue in the [GitHub Issues](https://github.com/ShaikShamanKhalid/VBOT/issues) section.
 
 ---
 
